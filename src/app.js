@@ -1,4 +1,4 @@
-import express from "express";
+import express from 'express';
 
 const app = express();
 
@@ -6,10 +6,10 @@ const app = express();
 app.use(express.json());
 
 // health / root route
-app.get("/", (req, res) => {
+app.get('/', (req, res) => {
   res.status(200).json({
-    message: "Learning Kubernetes 🚀",
-    status: "OK",
+    message: 'Learning Kubernetes 🚀',
+    status: 'OK',
   });
 });
 
