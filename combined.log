@@ -1,0 +1,2 @@
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 15.490 ms - 14\u001b[0m","service":"aquisitions","timestamp":"2025-12-16T21:39:46.243Z"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 2.189 ms - 150\u001b[0m","service":"aquisitions","timestamp":"2025-12-16T21:39:46.286Z"}
